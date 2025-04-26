@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "CondoBox.Infrastructure/1.0.0": {
+        "dependencies": {
+          "CondoBox.Domain": "1.0.0"
+        },
+        "runtime": {
+          "CondoBox.Infrastructure.dll": {}
+        }
+      },
+      "CondoBox.Domain/1.0.0": {
+        "runtime": {
+          "CondoBox.Domain.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondoBox.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "CondoBox.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

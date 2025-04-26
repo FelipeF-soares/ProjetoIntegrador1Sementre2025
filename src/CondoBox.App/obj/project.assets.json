@@ -1,0 +1,143 @@
+{
+  "version": 3,
+  "targets": {
+    "net8.0-windows7.0": {
+      "CondoBox.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CondoBox.Domain": "1.0.0",
+          "CondoBox.Infrastructure": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CondoBox.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CondoBox.Application.dll": {}
+        }
+      },
+      "CondoBox.Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/CondoBox.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CondoBox.Domain.dll": {}
+        }
+      },
+      "CondoBox.Infrastructure/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "dependencies": {
+          "CondoBox.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CondoBox.Infrastructure.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CondoBox.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CondoBox.Application/1.0.0": {
+      "type": "project",
+      "path": "../CondoBox.Application/CondoBox.Application.csproj",
+      "msbuildProject": "../CondoBox.Application/CondoBox.Application.csproj"
+    },
+    "CondoBox.Domain/1.0.0": {
+      "type": "project",
+      "path": "../CondoBox.Domain/CondoBox.Domain.csproj",
+      "msbuildProject": "../CondoBox.Domain/CondoBox.Domain.csproj"
+    },
+    "CondoBox.Infrastructure/1.0.0": {
+      "type": "project",
+      "path": "../CondoBox.Infrastructure/CondoBox.Infrastructure.csproj",
+      "msbuildProject": "../CondoBox.Infrastructure/CondoBox.Infrastructure.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net8.0-windows7.0": [
+      "CondoBox.Application >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Felipe\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\CondoBox.App.csproj",
+      "projectName": "CondoBox.App",
+      "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\CondoBox.App.csproj",
+      "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
+      "outputPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\obj\\",
+      "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
+      "configFilePaths": [
+        "C:\\Users\\Felipe\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net8.0-windows"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net8.0-windows7.0": {
+          "targetAlias": "net8.0-windows",
+          "projectReferences": {
+            "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj": {
+              "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
+      },
+      "SdkAnalysisLevel": "9.0.200"
+    },
+    "frameworks": {
+      "net8.0-windows7.0": {
+        "targetAlias": "net8.0-windows",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          },
+          "Microsoft.WindowsDesktop.App.WindowsForms": {
+            "privateAssets": "none"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200/PortableRuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
