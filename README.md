@@ -56,10 +56,10 @@ Double-click the `.exe` file to start the application.
 Below are some screenshots of the application:
 
 ![Login screen](images/login.jpg)  
-![Employee register screen](images/CadastroColaborador.jpg)  
-![Resident register screen](images/CadastroMorador.jpg)
-![E-mail register screen](images/CadastroEmail.jpg)
-![Email notification screen](images/Envio.png)
+![Employee register screen](images/CadastroColaborador.JPG)  
+![Resident register screen](images/CadastroMorador.JPG)
+![E-mail register screen](images/CadastroEmail.JPG)
+![Email notification screen](images/Envio.JPG)
 
 > 📂 To display the images correctly, place your `.png` or `.jpg` files inside an `images/` folder in the root of your repository.
 
