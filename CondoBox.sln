@@ -9,7 +9,7 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "test", "test", "{35C2D412-5
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondoBox.App", "src\CondoBox.App\CondoBox.App.csproj", "{F9222761-98F6-46BB-90CD-7FD57890D448}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondoBox.Application", "src\CondoBox.Application\CondoBox.Application.csproj", "{464F0497-0C02-4056-97BF-6193468E3B5A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondoBox.Applications", "src\CondoBox.Application\CondoBox.Applications.csproj", "{464F0497-0C02-4056-97BF-6193468E3B5A}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CondoBox.Domain", "src\CondoBox.Domain\CondoBox.Domain.csproj", "{2CCE4252-77C8-4116-B6C4-452800579019}"
 EndProject

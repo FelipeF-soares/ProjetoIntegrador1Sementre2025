@@ -13,3 +13,6 @@ C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Deb
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Debug\net8.0\refint\CondoBox.Infrastructure.dll
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Debug\net8.0\CondoBox.Infrastructure.pdb
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Debug\net8.0\ref\CondoBox.Infrastructure.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Debug\net8.0\CondoBox.Infrastructure.sourcelink.json
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\bin\Debug\net8.0\CondoBox.Infrastructure.runtimeconfig.json
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Infrastructure\obj\Debug\net8.0\CondoBox.Infrastructure.genruntimeconfig.cache

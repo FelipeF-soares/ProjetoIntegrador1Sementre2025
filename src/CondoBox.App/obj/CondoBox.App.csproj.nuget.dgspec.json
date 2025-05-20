@@ -4,12 +4,12 @@
     "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\CondoBox.App.csproj": {}
   },
   "projects": {
-    "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj": {
+    "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Applications.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj",
-        "projectName": "CondoBox.Application",
-        "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj",
+        "projectUniqueName": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Applications.csproj",
+        "projectName": "CondoBox.Applications",
+        "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Applications.csproj",
         "packagesPath": "C:\\Users\\Felipe\\.nuget\\packages\\",
         "outputPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\obj\\",
         "projectStyle": "PackageReference",
@@ -57,6 +57,12 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "BrazilianUtils": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -106,8 +112,8 @@
           "net8.0-windows7.0": {
             "targetAlias": "net8.0-windows",
             "projectReferences": {
-              "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj": {
-                "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Application.csproj"
+              "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Applications.csproj": {
+                "projectPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Application\\CondoBox.Applications.csproj"
               }
             }
           }
@@ -127,6 +133,34 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "BrazilianUtils": {
+              "target": "Package",
+              "version": "[2.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.Extensions.Hosting": {
+              "target": "Package",
+              "version": "[8.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -266,6 +300,26 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Microsoft.EntityFrameworkCore.Tools": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[8.0.15, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",

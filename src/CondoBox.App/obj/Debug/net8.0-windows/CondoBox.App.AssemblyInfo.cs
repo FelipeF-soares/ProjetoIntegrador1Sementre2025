@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CondoBox.App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea38eaea9cf46b1a8b20923da345655d5adbb30b")]
 [assembly: System.Reflection.AssemblyProductAttribute("CondoBox.App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CondoBox.App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

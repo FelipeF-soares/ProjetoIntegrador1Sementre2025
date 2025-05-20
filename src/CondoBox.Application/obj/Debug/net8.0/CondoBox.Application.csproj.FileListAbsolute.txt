@@ -15,3 +15,4 @@ C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Application\obj\Debug\
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Application\obj\Debug\net8.0\refint\CondoBox.Application.dll
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Application\obj\Debug\net8.0\CondoBox.Application.pdb
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Application\obj\Debug\net8.0\ref\CondoBox.Application.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Application\obj\Debug\net8.0\CondoBox.Application.sourcelink.json

@@ -9,3 +9,4 @@ C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Debug\net8.
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Debug\net8.0\refint\CondoBox.Domain.dll
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Debug\net8.0\CondoBox.Domain.pdb
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Debug\net8.0\ref\CondoBox.Domain.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Debug\net8.0\CondoBox.Domain.sourcelink.json
