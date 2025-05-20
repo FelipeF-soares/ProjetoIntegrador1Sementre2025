@@ -61,8 +61,6 @@ Below are some screenshots of the application:
 ![E-mail register screen](images/CadastroEmail.JPG)
 ![Email notification screen](images/Envio.JPG)
 
-> 📂 To display the images correctly, place your `.png` or `.jpg` files inside an `images/` folder in the root of your repository.
-
 ## 🧰 Technologies Used
 
 - C# with .NET 8.0 (Windows Forms)
