@@ -55,7 +55,7 @@ Double-click the `.exe` file to start the application.
 
 Below are some screenshots of the application:
 
-![Login screen](images/login.jpg)  
+![Login screen](images/login.JPG)  
 ![Employee register screen](images/CadastroColaborador.JPG)  
 ![Resident register screen](images/CadastroMorador.JPG)
 ![E-mail register screen](images/CadastroEmail.JPG)
