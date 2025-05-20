@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CondoBox.Domain")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ea38eaea9cf46b1a8b20923da345655d5adbb30b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+045759af4bd2f55ff770f00925a6308fd42d91d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("CondoBox.Domain")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CondoBox.Domain")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

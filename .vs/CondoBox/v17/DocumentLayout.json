@@ -3,8 +3,24 @@
   "WorkspaceRootPath": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{F3515845-FFBC-4405-A1FD-CFF23DB9E9E0}|src\\CondoBox.Infrastructure\\CondoBox.Infrastructure.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.infrastructure\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F3515845-FFBC-4405-A1FD-CFF23DB9E9E0}|src\\CondoBox.Infrastructure\\CondoBox.Infrastructure.csproj|solutionrelative:src\\condobox.infrastructure\\emailservice\\emailservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.app\\userscontrol\\addemployeeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|solutionrelative:src\\condobox.app\\userscontrol\\addemployeeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.app\\userscontrol\\addemployeeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|solutionrelative:src\\condobox.app\\userscontrol\\addemployeeusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|solutionrelative:src\\condobox.app\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.app\\condobox.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|solutionrelative:src\\condobox.app\\condobox.app.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|c:\\0.projetos\\projetointegrador1semestre2025\\src\\condobox.app\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{F9222761-98F6-46BB-90CD-7FD57890D448}|src\\CondoBox.App\\CondoBox.App.csproj|solutionrelative:src\\condobox.app\\properties\\resources.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,15 +35,63 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "EmailService.cs",
-              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Infrastructure\\EmailService\\EmailService.cs",
-              "RelativeDocumentMoniker": "src\\CondoBox.Infrastructure\\EmailService\\EmailService.cs",
-              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.Infrastructure\\EmailService\\EmailService.cs",
-              "RelativeToolTip": "src\\CondoBox.Infrastructure\\EmailService\\EmailService.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAxwCwAAAABAAAAAAAAAA==",
+              "Title": "AddEmployeeUserControl.cs",
+              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "RelativeDocumentMoniker": "src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "RelativeToolTip": "src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAiwCQAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-19T21:17:28.877Z",
+              "WhenOpened": "2025-05-20T19:08:28.027Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeUserControl.cs [Projeto]",
+              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "RelativeDocumentMoniker": "src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs",
+              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs [Projeto]",
+              "RelativeToolTip": "src\\CondoBox.App\\UsersControl\\AddEmployeeUserControl.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:08:24.717Z",
+              "EditorCaption": " [Projeto]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Resources.resx",
+              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\Properties\\Resources.resx",
+              "RelativeDocumentMoniker": "src\\CondoBox.App\\Properties\\Resources.resx",
+              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\Properties\\Resources.resx",
+              "RelativeToolTip": "src\\CondoBox.App\\Properties\\Resources.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-05-20T19:05:04.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CondoBox.App",
+              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\CondoBox.App.csproj",
+              "RelativeDocumentMoniker": "src\\CondoBox.App\\CondoBox.App.csproj",
+              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\CondoBox.App.csproj",
+              "RelativeToolTip": "src\\CondoBox.App\\CondoBox.App.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-20T19:04:59.02Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs [Projeto]",
+              "DocumentMoniker": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\Form1.cs",
+              "RelativeDocumentMoniker": "src\\CondoBox.App\\Form1.cs",
+              "ToolTip": "C:\\0.Projetos\\ProjetoIntegrador1semestre2025\\src\\CondoBox.App\\Form1.cs [Projeto]",
+              "RelativeToolTip": "src\\CondoBox.App\\Form1.cs [Projeto]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T19:03:51.494Z",
+              "EditorCaption": " [Projeto]"
             }
           ]
         }

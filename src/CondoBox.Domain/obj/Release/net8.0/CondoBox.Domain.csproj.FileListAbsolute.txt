@@ -1,0 +1,12 @@
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\bin\Release\net8.0\CondoBox.Domain.deps.json
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\bin\Release\net8.0\CondoBox.Domain.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\bin\Release\net8.0\CondoBox.Domain.pdb
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.AssemblyInfoInputs.cache
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.AssemblyInfo.cs
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.csproj.CoreCompileInputs.cache
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.sourcelink.json
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\refint\CondoBox.Domain.dll
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\CondoBox.Domain.pdb
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.Domain\obj\Release\net8.0\ref\CondoBox.Domain.dll

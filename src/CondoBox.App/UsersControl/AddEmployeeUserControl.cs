@@ -19,8 +19,11 @@ public partial class AddEmployeeUserControl : UserControl
     private void buttonEmployeeImage_Click(object sender, EventArgs e)
     {
         imagePath = SelectImage.Now();
-        pictureBoxEmployee.Image = Image.FromFile(imagePath);
-        pictureBoxEmployee.SizeMode = PictureBoxSizeMode.StretchImage;
+        if (!string.IsNullOrEmpty(imagePath))
+        {
+            pictureBoxEmployee.Image = Image.FromFile(imagePath);
+            pictureBoxEmployee.SizeMode = PictureBoxSizeMode.StretchImage;
+        }
     }
 
     private void buttonSend_Click(object sender, EventArgs e)

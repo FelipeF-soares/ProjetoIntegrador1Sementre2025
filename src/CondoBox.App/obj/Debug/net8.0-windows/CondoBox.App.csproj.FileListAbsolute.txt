@@ -177,3 +177,4 @@ C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.App\bin\Debug\net8.0-w
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.App\bin\Debug\net8.0-windows\Pictures\Employee\Employee03.jpg
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.App\bin\Debug\net8.0-windows\Pictures\Employee\Employee04.jpg
 C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.App\bin\Debug\net8.0-windows\Pictures\Employee\LogoAltos.jpg
+C:\0.Projetos\ProjetoIntegrador1semestre2025\src\CondoBox.App\bin\Debug\net8.0-windows\Pictures\window.ico

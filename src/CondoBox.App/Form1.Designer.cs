@@ -28,6 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
             menuStrip1 = new MenuStrip();
             iníciarToolStripMenuItem = new ToolStripMenuItem();
             loginToolStripMenuItem = new ToolStripMenuItem();
@@ -36,6 +37,8 @@
             configuraçõesToolStripMenuItem = new ToolStripMenuItem();
             emailToolStripMenuItem = new ToolStripMenuItem();
             panelSideMenu = new Panel();
+            labelCell = new Label();
+            labelCellphone = new Label();
             labelRoleFuction = new Label();
             labelRole = new Label();
             labelUsuario = new Label();
@@ -43,8 +46,6 @@
             labelCPFNumber = new Label();
             pictureBoxImage = new PictureBox();
             tabControl = new TabControl();
-            labelCell = new Label();
-            labelCellphone = new Label();
             menuStrip1.SuspendLayout();
             panelSideMenu.SuspendLayout();
             ((System.ComponentModel.ISupportInitialize)pictureBoxImage).BeginInit();
@@ -100,7 +101,7 @@
             // emailToolStripMenuItem
             // 
             emailToolStripMenuItem.Name = "emailToolStripMenuItem";
-            emailToolStripMenuItem.Size = new Size(180, 22);
+            emailToolStripMenuItem.Size = new Size(108, 22);
             emailToolStripMenuItem.Text = "E-mail";
             emailToolStripMenuItem.Click += emailToolStripMenuItem_Click;
             // 
@@ -120,6 +121,26 @@
             panelSideMenu.Name = "panelSideMenu";
             panelSideMenu.Size = new Size(183, 537);
             panelSideMenu.TabIndex = 1;
+            // 
+            // labelCell
+            // 
+            labelCell.AutoSize = true;
+            labelCell.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelCell.Location = new Point(5, 252);
+            labelCell.Name = "labelCell";
+            labelCell.Size = new Size(61, 17);
+            labelCell.TabIndex = 7;
+            labelCell.Text = "Contato:";
+            // 
+            // labelCellphone
+            // 
+            labelCellphone.AutoSize = true;
+            labelCellphone.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
+            labelCellphone.Location = new Point(70, 252);
+            labelCellphone.Name = "labelCellphone";
+            labelCellphone.Size = new Size(20, 17);
+            labelCellphone.TabIndex = 6;
+            labelCellphone.Text = "...";
             // 
             // labelRoleFuction
             // 
@@ -194,26 +215,6 @@
             tabControl.Size = new Size(601, 537);
             tabControl.TabIndex = 2;
             // 
-            // labelCell
-            // 
-            labelCell.AutoSize = true;
-            labelCell.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelCell.Location = new Point(5, 252);
-            labelCell.Name = "labelCell";
-            labelCell.Size = new Size(61, 17);
-            labelCell.TabIndex = 7;
-            labelCell.Text = "Contato:";
-            // 
-            // labelCellphone
-            // 
-            labelCellphone.AutoSize = true;
-            labelCellphone.Font = new Font("Segoe UI", 9.75F, FontStyle.Bold, GraphicsUnit.Point, 0);
-            labelCellphone.Location = new Point(70, 252);
-            labelCellphone.Name = "labelCellphone";
-            labelCellphone.Size = new Size(20, 17);
-            labelCellphone.TabIndex = 6;
-            labelCellphone.Text = "...";
-            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
@@ -223,6 +224,7 @@
             Controls.Add(panelSideMenu);
             Controls.Add(menuStrip1);
             FormBorderStyle = FormBorderStyle.FixedSingle;
+            Icon = (Icon)resources.GetObject("$this.Icon");
             MainMenuStrip = menuStrip1;
             MaximizeBox = false;
             MaximumSize = new Size(800, 600);

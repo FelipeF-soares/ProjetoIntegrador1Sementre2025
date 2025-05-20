@@ -121,4 +121,7 @@
   <data name="LogoAltos" type="System.Resources.ResXFileRef, System.Windows.Forms">
     <value>..\Pictures\Employee\LogoAltos.jpg;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </data>
+  <data name="window" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>..\Pictures\window.ico;System.Byte[], mscorlib, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </data>
 </root>

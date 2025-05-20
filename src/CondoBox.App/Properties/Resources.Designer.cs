@@ -69,5 +69,15 @@ namespace CondoBox.App.Properties {
                 return ((byte[])(obj));
             }
         }
+        
+        /// <summary>
+        ///   Consulta um recurso localizado do tipo System.Byte[].
+        /// </summary>
+        internal static byte[] window {
+            get {
+                object obj = ResourceManager.GetObject("window", resourceCulture);
+                return ((byte[])(obj));
+            }
+        }
     }
 }

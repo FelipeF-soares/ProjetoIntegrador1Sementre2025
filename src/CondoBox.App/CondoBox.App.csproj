@@ -14,6 +14,7 @@
     <None Remove="Pictures\Employee\Employee03.jpg" />
     <None Remove="Pictures\Employee\Employee04.jpg" />
     <None Remove="Pictures\Employee\LogoAltos.jpg" />
+    <None Remove="Pictures\window.ico" />
   </ItemGroup>
 
   <ItemGroup>
@@ -30,6 +31,9 @@
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
     <Content Include="Pictures\Employee\LogoAltos.jpg">
+      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+    </Content>
+    <Content Include="Pictures\window.ico">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </Content>
   </ItemGroup>
